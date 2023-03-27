@@ -2,6 +2,10 @@
 	color: #ff993b;
 }
 
+.flash-text {
+	color: rgb(211, 59, 46);
+}
+
 .logoImage {
 	max-width: 300px;
 }
