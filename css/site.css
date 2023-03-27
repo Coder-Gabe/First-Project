@@ -25,19 +25,21 @@ header {
 }
 
 #tableHeader {
-	background-color: #181818;
+	background-color: dimgrey;
 	color: white;
 	font-size: 1.5em;
 }
 
 
 .oddrow {
-	background-color: dimgray;
-	color: aqua;
+	background-color: rgb(211, 59, 46) ;
+	color: yellow;
+	
 }
 
 .evenrow {
-	background-color: #d3d3d3;
+	background-color: dimgrey;
+	color: yellow;
 }
 
 .heroImage {
